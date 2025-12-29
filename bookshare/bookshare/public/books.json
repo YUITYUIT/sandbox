@@ -1,0 +1,42 @@
+[
+  {
+    "id": "1",
+    "imageUrl": "/covers/clean-code.jpg",
+    "title": "Clean Code",
+    "author": "Robert C. Martin",
+    "publisher": "Prentice Hall",
+    "publishedYear": 2008,
+    "reviews": [
+      {
+        "reader": "山田 太郎",
+        "rating": 5,
+        "comment": "読みやすくて最高でした。"
+      },
+      {
+        "reader": "山田 次郎",
+        "rating": 4,
+        "comment": "わかりやすいです。"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "imageUrl": "/covers/pragmatic-programmer.jpg",
+    "title": "達人プログラマ",
+    "author": "Andrew Hunt",
+    "publisher": "Addison-Wesley",
+    "publishedYear": 1999,
+    "reviews": [
+      {
+        "reader": "山田 太郎",
+        "rating": 5,
+        "comment": "読みやすくて最高でした。"
+      },
+      {
+        "reader": "山田 次郎",
+        "rating": 4,
+        "comment": "わかりやすいです。"
+      }
+    ]
+  }
+]
